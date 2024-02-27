@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/stilos1.css">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Titulo 1</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet itaque eos nam amet minima facilis, quas voluptate dolore. Velit eveniet provident, libero esse eius commodi incidunt vitae soluta! Suscipit, mollitia!</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti fuga fugiat praesentium eaque velit reprehenderit ratione, quod ad ullam saepe sequi id facere officia quis esse perspiciatis labore sunt deleniti?</p>
+    <h1>Titulo 2</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga, aut saepe. Aperiam distinctio recusandae deserunt. Libero, adipisci sapiente sit ipsum suscipit vitae consequuntur laboriosam incidunt! Asperiores nihil sapiente quasi quia?0</p>
+    <img src="IMAG/bts.jpg" alt="">
+    <img src="IMAG/bts.jpg" alt="">
+</body>
+</html>
