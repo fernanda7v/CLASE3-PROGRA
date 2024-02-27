@@ -1,0 +1,22 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:25px;
+}
+body{
+    background-color: silver;
+}
+h1{
+    padding: 15px ;
+    border:10px;
+    border-style: dashed;
+    border-color: black;
+    color:crimson;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+p{color:blue;text-align: justify; border-radius: 25px; border-style:solid; padding:10px; border-color: black; }
+
+img
+{ width: 35%; }
